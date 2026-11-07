@@ -17,6 +17,18 @@ Technologies Used
 - Fuzzy Logic
 - Tkinter
 
+How to Run
+
+1. Make sure Python is installed.
+
+2. Install the required library:
+   
+   pip install -r requirements.txt
+
+3. Run the graphical interface:
+   
+   python gui.py
+
 Key Concepts
 
 - Fuzzy Logic principles
